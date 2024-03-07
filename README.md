@@ -7,9 +7,7 @@ Whether you're a seasoned traveler, an avid online shopper, or simply curious ab
 
 # Technologies Used:
 
-Vanilla JavaScript
-HTML
-CSS
+HTML, CSS, ReactJS, JavaScript
 
 
 # API Used:
